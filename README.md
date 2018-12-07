@@ -15,7 +15,7 @@ O curso foi dividido em duas aulas, aonde foram apresentados:
 
 Foram desenvolvidos dois paineis, um demonstrando as funcionalidades únicas do sistema, feito completamente através da feature de P e R, e um segundo painel utilizado para desevolvimento de uma analise completa dos dados de uma empresa ficticia, aonde foram demonstrados as funções exclusivas do Power BI através do DAX e PowerQuery M. 
 
-Arquivos do repositório
+Arquivos do repositório:
 * Power Point utilizado para explicação conceitual
 * Relatório Power BI utilizado no projeto de desenvolvimento
 * Arquivos do dataset utilizado
