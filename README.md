@@ -1,6 +1,5 @@
 # Material de cursos
 
-pt-BR:
 ## Cursos
 
 ### 01 - Desenvolvimento de Relatórios em Power BI
