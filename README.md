@@ -2,6 +2,8 @@
 
 ## Cursos
 
+<img align="center" src="01-curso-power-bi/intro-power-bi.PNG">
+
 ### 01 - Desenvolvimento de Relatórios em Power BI
 Curso Power BI intermediário focado em transportar o conhecimento de desenvolvedores de painéis com experiência em outras ferramentas para o Power BI. 
 
