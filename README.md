@@ -17,3 +17,4 @@ Arquivos do repositório
 * Power Point utilizado para explicação conceitual
 * Relatório Power BI utilizado no projeto de desenvolvimento
 * Arquivos do dataset utilizado
+* Arquivo de tema demonstrado para alunos.
